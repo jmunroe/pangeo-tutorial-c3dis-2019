@@ -6,9 +6,9 @@
     <img src="./images/xarray.png" height="125"> <img src="./images/dask.png" height="125"> <img src="./images/jupyter.png" height="125">
 </center>
 
-# Pangeo AGU 2018 Tutorial
+# Pangeo C3DIS Tutorial
 
-Welcome to the Pangeo Tutorial at the 2018 AGU Fall Meeting.
+Welcome to the Pangeo Tutorial at the C3DIS 2019.
 This is a live session from which you can run Jupyter notebooks showing how to Xarray, Dask, Jupyter.
 Pangeo is a community effort and big-data platform for the geosciences.
 This collection of tutorials is intended to demonstrate some of the operations that can be performed using Pangeo.
@@ -25,11 +25,14 @@ To get started, double click on a notebook on the left, like `getting_started.ip
 Links are available within each notebook for additional documentation on that topic.
 
 - For more information about Pangeo in general please visit [pangeo.io](https://pangeo.io).
-- For more information about this tutorial please visit: https://github.com/pangeo-data/pangeo-tutorial-agu-2018
+- For more information about this tutorial please visit: https://github.com/jmunroe/pangeo-tutorial-c3dis-2019
+
 ## Where is this running?
 
-This session is running on [binder.pangeo.io](http://binder.pangeo.io), a service designed by the Jupyter community, and operated by the Pangeo community. This Binder is running on Google Cloud Platform.
+*AWS ?*
+
+<!--This session is running on [binder.pangeo.io](http://binder.pangeo.io), a service designed by the Jupyter community, and operated by the Pangeo community. This Binder is running on Google Cloud Platform. -->
 
 ## Acknowledgments
 
-Pangeo is supported, in part, by the National Science Foundation (NSF) and the National Aeronautics and Space Administration (NASA). Google provided compute credits on Google Cloud Platform.
+Pangeo is supported, in part, by the National Science Foundation (NSF) and the National Aeronautics and Space Administration (NASA). <!--Google provided compute credits on Google Cloud Platform.-->
