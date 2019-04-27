@@ -15,8 +15,8 @@ kubernetes:
   worker-template:
     metadata:
     spec:
-      nodeSelector:
-        dask-worker: True
+#      nodeSelector:
+#        dask-worker: True
       restartPolicy: Never
       containers:
       - args:
