@@ -1,5 +1,7 @@
 # Pangeo Workshop at C3DIS 2019
 
+[![Binder](http://a9cfe1ada693411e9bcbc0665dca7b34-2055634723.ap-southeast-2.elb.amazonaws.com/badge_logo.svg)](http://a9cfe1ada693411e9bcbc0665dca7b34-2055634723.ap-southeast-2.elb.amazonaws.com/v2/gh/jmunroe/pangeo-tutorial-c3dis-2019/master)
+
 This repository contains materials for the tutorial session [Pangeo: Scalable Geoscience Tools in Python — Xarray, Dask, and Jupyter](http://www.c3dis.com/program) that will be held as a workshop with the C3DIS 2019 conference.
 
 Tutorial material adapated from https://github.com/pangeo-data/pangeo-tutorial-agu-2018.
