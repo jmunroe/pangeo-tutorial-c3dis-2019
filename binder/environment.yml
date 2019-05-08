@@ -23,6 +23,7 @@ dependencies:
   - kubernetes
   - dask-kubernetes
   - dask-jobqueue
+  - python-graphviz
   # pyviz
   - bokeh=1.0.4
   - holoviews=1.11.3
